@@ -1,4 +1,4 @@
-# Can-GraphQL-Replace-REST-
+# GraphQL vs REST-
 Representational State Transfer (REST) has traditionally been the standard web service architectural style for API creation. However, its popularity has been challenged with
 the introduction of GraphQL, an open source query language for APIs introduced by Facebook, in 2015. The latter has been quickly adopted by GitHub, Shopify, Airbnb, Twitter and more online portals are joining the list. In some instances, GraphQL has been adopted as an alternative architectural style or has been used in conjunction with REST.
 While GraphQL promises a considerable improvement over REST, much remains unexplored with respect to its efficiency and feasibility in its application. The goal of this paper is to determine viability of using GraphQL over REST for API architecture from quantitative and qualitative perspectives. A custom API client on GitHub is constructed to check on the response times and the corresponding magnitude of difference between REST and GraphQL. Thereafter, the paper surveyed employees of GitHub to understand software developers’ educated opinion and perceptions about REST and GraphQL based on their practical
